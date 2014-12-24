@@ -16,4 +16,4 @@ no_index:
     - inc
 resources:
   repository: https://github.com/justnoxx/anyevent-mysql-connpool.git
-version: '0.04'
+version: '0.05'
